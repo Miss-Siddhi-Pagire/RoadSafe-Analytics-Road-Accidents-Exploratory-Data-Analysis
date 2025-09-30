@@ -68,14 +68,6 @@ The objective is to provide actionable insights to support **road safety policie
 The **DV-RoadSafe Dashboard** is an interactive web application built with **Streamlit**.  
 It allows users, policymakers, or analysts to **explore road accident data in real time** without needing to write code.
 
-🔎 **Key Features:**
-
-- 📆 Filter accidents by **year, month, or day**  
-- 🌦️ Analyze accident trends under different **weather conditions**  
-- 📍 Visualize accident **hotspots on maps** (Geospatial view)  
-- 📊 Explore correlations between **severity and factors like visibility, road type, or traffic**  
-- 📈 Downloadable charts and CSV insights  
-
 ---
 
 ## 📆 Project Timeline (8 Weeks)
@@ -88,8 +80,7 @@ It allows users, policymakers, or analysts to **explore road accident data in re
 | 4    | Bivariate & Multivariate Analysis         | Correlation insights                         |
 | 5    | Geospatial Analysis                       | Accident hotspot maps                        |
 | 6    | Hypothesis Testing & Insight Extraction   | Analytical results                           |
-| 7    | Dashboard Development                     | Streamlit web application                    |
-| 8    | Final Presentation                        | Documentation & final project demo           |
+| 7    | Final Presentation                        | Documentation & final project demo           |
 
 ---
 
